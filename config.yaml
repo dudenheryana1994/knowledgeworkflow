@@ -1,0 +1,7 @@
+notion_token: "secret_DnGOFz53EewcVwR40JFRYtDpfjqz81oQixT2Rx7WANP"
+notion_database_id: "23073b672da4804e83cbe84d1f3d515f"
+vault_folder: "/home/duden/KnowledgeWorkflow/vault/template"
+script_path: "/home/duden/KnowledgeWorkflow/scripts/publish_to_notion.py"
+python_path: "/home/duden/KnowledgeWorkflow/scripts/venv/bin/python"
+telegram_token: "8435540753:AAFpr6cZcjTJwPwu21auk2MUCqpi8lOiCNo"
+telegram_chat_id: "737443973"
